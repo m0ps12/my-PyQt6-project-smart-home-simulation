@@ -1,1 +1,1 @@
-# my-PyQt6-project-smart-home-simulation
+
